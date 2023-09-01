@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-food-app123/static/css/main.2cc9eb6a.css",
+    "main.js": "/react-tailwind-food-app123/static/js/main.71511d80.js",
+    "index.html": "/react-tailwind-food-app123/index.html",
+    "main.2cc9eb6a.css.map": "/react-tailwind-food-app123/static/css/main.2cc9eb6a.css.map",
+    "main.71511d80.js.map": "/react-tailwind-food-app123/static/js/main.71511d80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc9eb6a.css",
+    "static/js/main.71511d80.js"
+  ]
+}
