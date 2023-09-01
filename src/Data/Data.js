@@ -137,7 +137,7 @@ export const categories = [
   {
     id: 5,
     name: "Latest Deals",
-    image: "images/Latest-deals.png",
+    image: "images/Latest-Deals.png",
   },
   {
     id: 6,
