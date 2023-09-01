@@ -20,7 +20,7 @@ const Category = () => {
             >
               <h2 className="font-bold sm:text-xl">{item.name}</h2>
 
-              <img src={item.image} alt="img" className="w-20" />
+              <img src={item.image} alt="img" className="w-12 ml-2 lg:w-20" />
             </div>
           );
         })}
